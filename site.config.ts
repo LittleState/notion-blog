@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '小邦的窝',
-  domain: 'kurisu.ml',
+  domain: 'blog.100728.xyz',
   author: '小邦',
 
   // open graph metadata (optional)
