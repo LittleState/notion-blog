@@ -18,6 +18,7 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+<script defer data-domain="blog.100728.xyz" src="https://tongji.100728.xyz/js/script.js"></script>
           </Head>
 
           <body>
